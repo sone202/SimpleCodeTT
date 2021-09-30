@@ -36,8 +36,6 @@ class EditEmployee extends Component {
                     "lastModifiedDate": "1111-11-11T00:00:00"
                 })
             };
-            debugger
-            console.log(REACT_APP_API + 'employees/' + this.state.id)
             fetch(REACT_APP_API + 'employees/' + this.state.id, requestOptions)
                 .then(this.setState({isSubmitted: true}))
                 .catch(error => console.log('Form submit error', error))
@@ -98,9 +96,10 @@ class EditEmployee extends Component {
                         {/*salary*/}
                         <Form.Group className="mb-3" controlId="salary">
                             <Form.Label>Salary</Form.Label>
-                            <Form.Control placeholder="0.00"
+                            <Form.Control placeholder="0.0000"
                                           required
                                           type="number"
+                                          step={0.0001}
                                           value={this.state.salary}
                                           onChange={(e) => this.setState({salary: e.target.value})}
                             />

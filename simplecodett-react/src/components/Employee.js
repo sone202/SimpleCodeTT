@@ -5,16 +5,17 @@ import BootstrapTable from "react-bootstrap-table-next";
 import paginationFactory from "react-bootstrap-table2-paginator";
 import Cookies from 'js-cookie'
 import moment from 'moment'
+import momentTimezone from 'moment-timezone'
 
 const LOCALE = window.navigator.userLanguage || window.navigator.language;
+const TZ = momentTimezone.tz.guess()
 const REACT_APP_API = 'https:localhost:44359/api/'
 
 class Employee extends Component {
     constructor() {
         super();
-        // changing to current locale
+        //changing to current locale
         moment.locale(LOCALE);
-
         this.state = {
             emps: []
         };
@@ -39,7 +40,7 @@ class Employee extends Component {
                     if (typeof cell !== 'object') {
                         dateObj = new Date(cell);
                     }
-                    return moment(dateObj).format('L').toString();
+                    return moment(dateObj).format('L');
                 }
             },
             {
@@ -57,7 +58,13 @@ class Employee extends Component {
                         dateObj = new Date(cell);
                     }
                     // TODO: Refactor
-                    return moment(dateObj).format('L').toString() + ' ' + moment(dateObj).format('LTS').toString();
+                    console.log()
+                    return moment(dateObj).format('L')
+                        + ' '
+                        + moment(dateObj)
+                            .utc(true)
+                            .tz(TZ)
+                            .format('LTS')
                 }
             }, {
                 dataField: "edit",
@@ -91,6 +98,7 @@ class Employee extends Component {
     }
 
     refreshList() {
+        console.log(TZ)
         const requestOptions = {
             method: 'GET',
             headers: {
