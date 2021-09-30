@@ -1,0 +1,15 @@
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.BuisnessLogic\bin\Release\netcoreapp3.1\SimpleCodeTT.BusinessLogic.deps.json
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.BuisnessLogic\bin\Release\netcoreapp3.1\SimpleCodeTT.BusinessLogic.dll
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.BuisnessLogic\bin\Release\netcoreapp3.1\SimpleCodeTT.BusinessLogic.pdb
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.BuisnessLogic\bin\Release\netcoreapp3.1\SimpleCodeTT.Contracts.dll
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.BuisnessLogic\bin\Release\netcoreapp3.1\SimpleCodeTT.DataAccess.dll
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.BuisnessLogic\bin\Release\netcoreapp3.1\SimpleCodeTT.Contracts.pdb
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.BuisnessLogic\bin\Release\netcoreapp3.1\SimpleCodeTT.DataAccess.pdb
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.BuisnessLogic\obj\Release\netcoreapp3.1\SimpleCodeTT.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.BuisnessLogic\obj\Release\netcoreapp3.1\SimpleCodeTT.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.BuisnessLogic\obj\Release\netcoreapp3.1\SimpleCodeTT.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.BuisnessLogic\obj\Release\netcoreapp3.1\SimpleCodeTT.BusinessLogic.AssemblyInfo.cs
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.BuisnessLogic\obj\Release\netcoreapp3.1\SimpleCodeTT.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.BuisnessLogic\obj\Release\netcoreapp3.1\SimpleCodeTT.BusinessLogic.csproj.CopyComplete
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.BuisnessLogic\obj\Release\netcoreapp3.1\SimpleCodeTT.BusinessLogic.dll
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.BuisnessLogic\obj\Release\netcoreapp3.1\SimpleCodeTT.BusinessLogic.pdb

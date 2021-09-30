@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oIu9oLKMWX22SiAe9lQPu4DSfv1Q2O1Wa0m5BeYHTkFJSFiJkZois2y7/z6yPOIxXQVIILXphoMdqSNn33V65w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timzl\\source\\repos\\SimpleCodeTT\\Backend\\SimpleCodeTT.Contracts\\SimpleCodeTT.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timzl\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\timzl\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.2\\microsoft.identitymodel.logging.6.12.2.nupkg.sha512",
+    "C:\\Users\\timzl\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.2\\microsoft.identitymodel.tokens.6.12.2.nupkg.sha512",
+    "C:\\Users\\timzl\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

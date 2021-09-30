@@ -1,0 +1,10 @@
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.Contracts\bin\Release\netcoreapp3.1\SimpleCodeTT.Contracts.deps.json
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.Contracts\bin\Release\netcoreapp3.1\SimpleCodeTT.Contracts.dll
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.Contracts\bin\Release\netcoreapp3.1\SimpleCodeTT.Contracts.pdb
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.Contracts\obj\Release\netcoreapp3.1\SimpleCodeTT.Contracts.csproj.AssemblyReference.cache
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.Contracts\obj\Release\netcoreapp3.1\SimpleCodeTT.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.Contracts\obj\Release\netcoreapp3.1\SimpleCodeTT.Contracts.AssemblyInfoInputs.cache
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.Contracts\obj\Release\netcoreapp3.1\SimpleCodeTT.Contracts.AssemblyInfo.cs
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.Contracts\obj\Release\netcoreapp3.1\SimpleCodeTT.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.Contracts\obj\Release\netcoreapp3.1\SimpleCodeTT.Contracts.dll
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.Contracts\obj\Release\netcoreapp3.1\SimpleCodeTT.Contracts.pdb

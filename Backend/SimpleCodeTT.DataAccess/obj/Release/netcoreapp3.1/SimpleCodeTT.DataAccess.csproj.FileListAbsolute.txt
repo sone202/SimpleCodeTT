@@ -1,0 +1,10 @@
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.DataAccess\bin\Release\netcoreapp3.1\SimpleCodeTT.DataAccess.deps.json
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.DataAccess\bin\Release\netcoreapp3.1\SimpleCodeTT.DataAccess.dll
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.DataAccess\bin\Release\netcoreapp3.1\SimpleCodeTT.DataAccess.pdb
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.DataAccess\obj\Release\netcoreapp3.1\SimpleCodeTT.DataAccess.csproj.AssemblyReference.cache
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.DataAccess\obj\Release\netcoreapp3.1\SimpleCodeTT.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.DataAccess\obj\Release\netcoreapp3.1\SimpleCodeTT.DataAccess.AssemblyInfoInputs.cache
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.DataAccess\obj\Release\netcoreapp3.1\SimpleCodeTT.DataAccess.AssemblyInfo.cs
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.DataAccess\obj\Release\netcoreapp3.1\SimpleCodeTT.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.DataAccess\obj\Release\netcoreapp3.1\SimpleCodeTT.DataAccess.dll
+C:\Users\timzl\source\repos\SimpleCodeTT\Backend\SimpleCodeTT.DataAccess\obj\Release\netcoreapp3.1\SimpleCodeTT.DataAccess.pdb
